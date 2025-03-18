@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 # RJSanndoval IT Solutions
+![Mi imagen](Banner 2025 Negro Metálico.jpg)
 
 ## Servicios Ofrecidos
 
