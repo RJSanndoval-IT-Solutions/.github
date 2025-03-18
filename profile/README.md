@@ -1,12 +1,28 @@
 ## Hi there 👋
 
-<!--
+# RJSanndoval IT Solutions
 
-**Here are some ideas to get you started:**
+## Servicios Ofrecidos
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Desarrollo de Software
+- Creación de aplicaciones a medida en diversas tecnologías.
+- Desarrollo de software empresarial y soluciones personalizadas.
+- Implementación de bases de datos y optimización de consultas SQL.
+- Desarrollo web y móvil con tecnologías modernas.
+
+### Reparación de Computadoras
+- Diagnóstico y solución de fallas de hardware y software.
+- Eliminación de virus, malware y optimización del sistema.
+- Formateo, reinstalación de sistemas operativos y recuperación de datos.
+- Mantenimiento preventivo y correctivo para mejorar el rendimiento.
+
+## Compromiso con la Calidad
+En RJSanndoval IT Solutions nos enfocamos en brindar soluciones eficientes y de alta calidad, garantizando la satisfacción de nuestros clientes.
+
+## Contacto
+```markdown
+📧 Correo: contacto@rjsanndoval.com
+📞 Teléfono: +XX XXXX XXXX
+🌐 Sitio Web: www.rjsanndoval.com
+```
+
