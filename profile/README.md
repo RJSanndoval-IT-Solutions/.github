@@ -15,7 +15,7 @@
 - Formateo, reinstalación de sistemas operativos y recuperación de datos.
 - Mantenimiento preventivo y correctivo para mejorar el rendimiento.
 
-## ✅ Compromiso con la Calidad
+### ✅ Compromiso con la Calidad
 En RJSanndoval IT Solutions nos enfocamos en brindar soluciones eficientes y de alta calidad, garantizando la satisfacción de nuestros clientes.
 
 ## 📩 Contacto
