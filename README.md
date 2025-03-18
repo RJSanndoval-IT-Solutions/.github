@@ -1,7 +1,5 @@
 # .github
 
-# RJSanndoval-IT-Solutions
-
 # RJSanndoval IT Solutions
 
 ## Servicios Ofrecidos
